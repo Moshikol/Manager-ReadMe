@@ -2,7 +2,7 @@
 ## Welcome!
 Hi! Welcome to the team, I'm very happy to have you here, and I'm sure we will build amazing things together.
 You are now starting a new chapter in your career in our company,
-This is the time for you to take a listen, write things down, **ask any question** that comes to your mind and get to know the team and company.
+this is the time for you to take a listen, write things down, **ask any question** that comes to your mind and get to know the team and company.
 
 ## Why Readme?
 I believe every complex piece of code should be properly documented, so it would be easier to understand and maintain. Humans are even more complex than any piece of code you can find, so why not have documentation to help people interact with each other better?
@@ -10,7 +10,7 @@ This is my documentation for you :).
 
 ## About me
 I'm Moshiko 27yo, I'm T1D since I was 11yo,
-I started my SW career at the Israeli ministry of defense, where I served as a software developer for 2 years. I joined DreaMed right after I finished my military service, as a junior SW developer and worked my way up :).
+I started my SW career at the Israeli ministry of defense, where I served as a software developer for couple of years. I joined DreaMed right after I finished my military service, as a junior SW developer and worked my way up :).
 I'm an off-road driver, motor lover, and an amateur photographer.
 
 ### My Role
