@@ -22,7 +22,7 @@ As a part of my role, I will provide you context on your tasks and I will be you
 2.	**Tech role** - It is my responsibility to make sure we are building an amazing, scalable, and maintainable product. As part of this responsibility, I would make sure your code is being reviewed and validated according to code conventions and business requirements. I will be here to answer any tech/architecture questions you may have.
 
 
-### What I Do I Expect from you?
+### What I Expect from you?
 - **End to End Ownership** - When you as a developer are getting a new task, I expect you to understand the full context of the mission. This is because when you understand the full context (tech and product) you can bring up solutions or issues that will affect the feature development as well as help us build a better product for our customers.
 - **Be Loyal to the team** - Conflicts and bugs are part of a programmer's job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her fix and learn from the mistake.
 - **Boy scout Rule** - There are some rules that I follow, one of them is the "Boy scout Rule". This is a rule taken from the US Boy scouts and it goes like this: when the Boy scouts is leaving a camping zone they leave the place cleaner than it was before. When you get a task in the codebase, I expect you to leave it cleaner than it was when you got it. This would make our codebase cleaner and cleaner with every feature we add.
