@@ -22,18 +22,20 @@ As a part of my role, I will provide you context on your tasks and I will be you
 2.	**Tech role** - It is my responsibility to make sure we are building an amazing, scalable, and maintainable product. As part of this responsibility, I would make sure your code is being reviewed and validated according to code conventions and business requirements. I will be here to answer any tech/architecture questions you may have.
 
 
-### What I Expect from you?
-- **End to End Ownership** - When you as a developer are getting a new task, I expect you to understand the full context of the mission. This is because when you understand the full context (tech and product) you can bring up solutions or issues that will affect the feature development as well as help us build a better product for our customers.
-- **Be Loyal to the team** - Conflicts and bugs are part of a programmer's job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her fix and learn from the mistake.
-- **Boy scout Rule** - There are some rules that I follow, one of them is the "Boy scout Rule". This is a rule taken from the US Boy scouts and it goes like this: when the Boy scouts is leaving a camping zone they leave the place cleaner than it was before. When you get a task in the codebase, I expect you to leave it cleaner than it was when you got it. This would make our codebase cleaner and cleaner with every feature we add.
-- **CI** - I believe that each one of us and the team as a whole should be in a process of "Continues Improvement" at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
+### What Do I Expect From You?
+- **End to End Ownership** - When you, as a developer are getting a new task, I expect you to understand the full context of the mission. This is because when you understand the full context (tech and product) you can bring up solutions or issues that will affect the feature development, as well as help us build a better product for our customers.
+- **Be Loyal To The Team** - Conflicts and bugs are part of a programmer's job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her fix and learn from the mistake.
+- **Boy\Girl Scout Rule** - There are some rules that I follow, one of them is the "Boy\Girl Scout Rule". This is a rule taken from the US Boy scouts and it goes like this: when the Boy scouts is leaving a camping zone they leave the place cleaner than it was before. When you get a task in the codebase, I expect you to leave it cleaner than it was when you got it. This would make our codebase cleaner and cleaner with every feature we add.
+- **CI** - I believe that each one of us, and the team as a whole should be in a process of "**Continues Improvement**" at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
 
 ### Personal quirks
- -   **I argue with “passion”** -I may raise my voice a little. I don’t like it about myself, and I try to improve. That may happen because I like the product, and it's important to me to make sure we do it as good as we can. If you feel I crossed the line, please let me know. It’s not my intent.
- - **I have the memory and attention span of a goldfish**- I have the memory and attention span of a goldfish- The only way I can be productive is by constantly taking notes. If you see me typing while we're talking, I'm not browsing Facebook, just trying to record what we're saying so I can reflect and process it later on.
+ - **I argue with “passion”** - I may raise my voice a little. I don’t like it about myself, and I try to improve. That may happen because I like the product, and it's important to me to make sure we do it as good as we can. If you feel I crossed the line, please let me know. It’s not my intent.
+ - **I have the memory and attention span of a goldfish**- The only way I can be productive is by constantly taking notes. If you see me typing while we're talking, I'm not browsing Facebook, just trying to record what we're saying so I can reflect and process it later on.
 
 ### 1:1s
 1:1s are **your** meetings. This is your place to talk about anything that's bothering you or you want to share.
 Those meetings won't be about status updates, we would talk about your career goals and how we can help you achieve them.
-For us to be productive in our 1:1s, I want you to be prepared: prepare questions, suggestions, initiativs, thoughts, or any other agenda.
+For us to be productive in our 1:1s, I would like you to be prepared: prepare questions, suggestions, initiativs, thoughts, feedbacks, or any other agenda.
 But don't worry, if you won't, I will navigate the conversation :).
+
+### **Good luck!**
