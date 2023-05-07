@@ -10,23 +10,26 @@ This is my documentation for you :).
 
 ## About me
 I'm Moshiko 27yo, I'm T1D since I was 11yo,
-I started my SW career at the Israeli ministry of defense, where I served as a software developer for couple of years. I joined DreaMed right after I finished my military service, as a junior SW developer and worked my way up :).
+I started my SW career at the Israeli ministry of defense, where I served as a software developer for couple of years.  
+Then I joined a company called DreaMed Diabetes, I started there as a junior SW developer and worked my way up to be a software team leader.
 I'm an off-road driver, motor lover, and an amateur photographer.
 
 ### My Role
-My Role is divided into two sections:
+My Role is divided into three sections:
 
 1.	**People role** - As a manager, my role is to make the team (and you :)) move faster and efficiently.
 I will be here to mentor, and help you grow and develop your talent inside our company.
 As a part of my role, I will provide you context on your tasks and I will be your point of contact to anything (good or bad) you want to share with the management team.
 2.	**Tech role** - It is my responsibility to make sure we are building an amazing, scalable, and maintainable product. As part of this responsibility, I would make sure your code is being reviewed and validated according to code conventions and business requirements. I will be here to answer any tech/architecture questions you may have.
+3.	**Product role** - As a part of being a manager my job is to understand the company product and add buisness context to each task you as an developer would be assign to.  
+That would allow you to design and implement better suited solutions for the task.
 
 
 ### What Do I Expect From You?
 - **End to End Ownership** - When you, as a developer are getting a new task, I expect you to understand the full context of the mission. This is because when you understand the full context (tech and product) you can bring up solutions or issues that will affect the feature development, as well as help us build a better product for our customers.
-- **Be Loyal To The Team** - Conflicts and bugs are part of a programmer's job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her fix and learn from the mistake.
+- **Be A Team Player** - Conflicts and bugs are part of a programmer's job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her fix and learn from the mistake.
 - **Boy\Girl Scout Rule** - There are some rules that I follow, one of them is the "Boy\Girl Scout Rule". This is a rule taken from the US Boy scouts and it goes like this: when the Boy scouts is leaving a camping zone they leave the place cleaner than it was before. When you get a task in the codebase, I expect you to leave it cleaner than it was when you got it. This would make our codebase cleaner and cleaner with every feature we add.
-- **CI** - I believe that each one of us, and the team as a whole should be in a process of "**Continues Improvement**" at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
+- **Continues Improvement** - I believe that each one of us, and the team as a whole should be in a process of "**Continues Improvement**" at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
 
 ### Personal quirks
  - **I argue with “passion”** - I may raise my voice a little. I don’t like it about myself, and I try to improve. That may happen because I like the product, and it's important to me to make sure we do it as good as we can. If you feel I crossed the line, please let me know. It’s not my intent.
