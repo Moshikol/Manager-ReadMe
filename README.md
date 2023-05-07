@@ -21,7 +21,8 @@ My Role is divided into three sections:
 I will be here to mentor, and help you grow and develop your talent inside our company.
 As a part of my role, I will provide you context on your tasks and I will be your point of contact to anything (good or bad) you want to share with the management team.
 2.	**Tech role** - It is my responsibility to make sure we are building an amazing, scalable, and maintainable product. As part of this responsibility, I would make sure your code is being reviewed and validated according to code conventions and business requirements. I will be here to answer any tech/architecture questions you may have.
-3.	**Product role** - As a part of being a manager my job is to understand the company product, its strenghths 
+3.	**Product role** - As a part of being a manager my job is to understand the company product and add buisness context to each task you as an developer would be assign to.  
+That would allow you to design and implement better suited solutions for the task.
 
 
 ### What Do I Expect From You?
