@@ -18,15 +18,15 @@ I'm an off-road driver, motor lover, and an amateur photographer.
 My Role is divided into three sections:
 
 1.	**People role** - As a manager, my role is to make the team (and you :)) move faster and efficiently.
-I will be here to mentor, and help you grow and develop your talent inside our company.
+I will be here to mentor, and help you grow and develop your talent.
 As a part of my role, I will provide you context on your tasks and I will be your point of contact to anything (good or bad) you want to share with the management team.
-2.	**Tech role** - It is my responsibility to make sure we are building an amazing, scalable, and maintainable product. As part of this responsibility, I would make sure your code is being reviewed and validated according to code conventions and business requirements. I will be here to answer any tech/architecture questions you may have.
-3.	**Product role** - As a part of being a manager my job is to understand the company product and add buisness context to each task you as an developer would be assign to.  
+2.	**Tech role** - It is my responsibility to make sure we are building an amazing, scalable, and maintainable product. As part of this responsibility, I would make sure your code is developed according to company standarts to code conventions and business requirements. I will be here to answer any tech/architecture questions you may have.
+3.	**Product role** - As a part of being a manager my job is to understand the company product and add clarify buisness context whenever needed.  
 That would allow you to design and implement better suited solutions for the task.
 
 
 ### What Do I Expect From You?
-- **End to End Ownership** - When you, as a developer are getting a new task, I expect you to understand the full context of the mission. This is because when you understand the full context (tech and product) you can bring up solutions or issues that will affect the feature development, as well as help us build a better product for our customers.
+- **End to End Ownership** - When you get a new task, I expect you to understand the full context of the mission. Understanding the full context (tech and product) can bring you up solutions or issues that will affect the feature development, as well as help us build a better product for our customers.
 - **Be A Team Player** - Conflicts and bugs are part of a programmer's job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her fix and learn from the mistake.
 - **Boy\Girl Scout Rule** - There are some rules that I follow, one of them is the "Boy\Girl Scout Rule". This is a rule taken from the US Boy scouts and it goes like this: when the Boy scouts is leaving a camping zone they leave the place cleaner than it was before. When you get a task in the codebase, I expect you to leave it cleaner than it was when you got it. This would make our codebase cleaner and cleaner with every feature we add.
 - **Continues Improvement** - I believe that each one of us, and the team as a whole should be in a process of "**Continues Improvement**" at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
