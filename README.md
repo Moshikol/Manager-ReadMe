@@ -24,15 +24,7 @@ As a part of my role, I will provide you context on your tasks and I will be you
 3.	**Product role** - As a part of being a manager my job is to understand the company product and add clarify buisness context whenever needed.  
 That would allow you to design and implement better suited solutions for the task.
 
-
-### What Do I Expect From You?
-- **End to End Ownership** - When you get a new task, I expect you to understand the full context of the mission.
-Understanding the full context (tech and product) can bring up solutions or issues that will affect the feature development, as well as help us build a better product for our customers.
-- **Be A Team Player** - Conflicts and bugs are part of a programmer's job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her fix and learn from the mistake.
-- **Boy\Girl Scout Rule** - There are some rules that I follow, one of them is the "Boy\Girl Scout Rule". This is a rule taken from the US Boy scouts and it goes like this: when the Boy scouts is leaving a camping zone they leave the place cleaner than it was before. When you get a task in the codebase, I expect you to leave it cleaner than it was when you got it. This would make our codebase cleaner and cleaner with every feature we add.
-- **Continues Improvement** - I believe that each one of us, and the team as a whole should be in a process of "**Continues Improvement**" at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
-
-### What Can You Expect From Me?
+### What are my expectations?
 - **End to End Ownership** - well, buckle up because we're in this together! As we take on new tasks, I expect you to go full throttle with end-to-end ownership. That means getting the whole picture, from the nitty-gritty tech details to the overarching product goals. You never know what solutions or issues might pop up along the way, so it's crucial to stay on top of everything. Plus, when we're all on the same page, we can build an amazing product that our customers will love.
 - **Be A Team Player** - let's face it, programming can be tough. Bugs and conflicts are inevitable. But when things get bumpy, I need you to remember that we're all in the same boat. We're a team, and we're here to steer our ship to the best possible destination. No finger-pointing, no blame games. Just teamwork and collaboration.
 - **Boy\Girl Scout Rule** - Speaking of collaboration, have you heard of the Boy/Girl Scout Rule? It's one of my favorites, and I think it's pretty darn cool. Basically, it means that when the Boy/Girl Scouts leave a camping site, they make sure it's cleaner than when they arrived. And I believe the same should go for our codebase. Whenever you tackle a task, aim to leave the codebase cleaner than when you found it. It's a small step, but it adds up and helps keep our codebase shipshape.
