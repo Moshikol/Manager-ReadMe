@@ -18,3 +18,26 @@ Transparency builds trust; obscurity breeds doubt.
 Let our legacy not be code but the difference we made through it.  
 Strive for excellence, not because it's expected, but because it's who we are.  
 ```
+
+Unity is Strength
+Empower Every Voice
+Feedback Fuels Growth
+Communicate for Clarity
+Embrace Collective Wisdom
+Proactivity, Not Reactivity
+Champion Continuous Improvement
+Code: Clean, Not Cluttered
+Simplicity Breeds Elegance
+Excellence or Just Enough?
+Collaborate to Achieve
+Done Over Perfect
+Right Tool, Right Time
+Transparency Equals Trust
+Impact Over Code
+Strive for Excellence
+
+Unity is Strength
+Feedback Fuels Growth
+Proactivity, Not Reactivity
+Simplicity Breeds Elegance
+Choose Path Wisely: Excellence or good Enough?
