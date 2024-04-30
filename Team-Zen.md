@@ -40,4 +40,4 @@ Unity is Strength
 Feedback Fuels Growth
 Proactivity, Not Reactivity
 Simplicity Breeds Elegance
-Choose Path Wisely: Excellence or good Enough?
+Choose The Path Wisely: Excellence or Good Enough?
