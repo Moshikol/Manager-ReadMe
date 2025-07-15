@@ -9,7 +9,7 @@ I believe every complex piece of code should be properly documented, so it would
 This is my documentation for you :).
 
 ## About me
-I'm Moshiko 28yo, I'm T1D since I was 11yo,
+I'm Moshiko 29yo, I'm T1D since I was 11yo,
 I started my SW career at the Israeli ministry of defense, where I served as a software developer for couple of years.  
 Then I joined a company called DreaMed Diabetes, I started there as a junior SW developer and worked my way up to be a software team leader.
 I'm an off-road driver, motor lover, and an amateur photographer.
